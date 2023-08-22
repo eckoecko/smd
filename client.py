@@ -3,12 +3,14 @@ import email
 import smtplib
 import subprocess
 import time
+import os
+
 
 # email account details
-imap_username_from_client = "your_2nd_gmail@gmail.com"
-imap_password = "your_2nd_gmail@app_password"
-smtp_username = "Your_1st_gmail@gmail.com"
-smtp_password = "Your_1st_gmail_app_password"
+imap_username_from_client = "brunobrail335@gmail.com"
+imap_password = "dimgwmkmtwsiaaiw"
+smtp_username = "duejohn825@gmail.com"
+smtp_password = "vekktzscbyhfvadv"
 imap_server="imap.gmail.com"
 
 while True:
